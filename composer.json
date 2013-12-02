@@ -1,8 +1,8 @@
 {
     "name": "egorovpavel/twigviewengine",
     "type": "library",
-    "description": "php twig view engine for pvc",
-    "keywords": ["php", "viewengine", "pvc"],
+    "description": "php twig view engine for compot",
+    "keywords": ["php", "viewengine", "compot"],
     "homepage": "http://github.com/egorovpavel/twigviewengine",
     "license": "MIT",
     "authors": [
@@ -12,13 +12,13 @@
         }
     ],
     "require": {
-        "egorovpavel/pvc": "dev-master",
+        "egorovpavel/compot": "dev-master",
         "twig/twig": "1.*"
     },
     "require-dev": {
         "phpunit/phpunit": "~3.7"
     },
     "autoload": {
-        "psr-0": {"TwigViewEngine": ""}
+        "psr-0": {"lib": ""}
     }
 }
