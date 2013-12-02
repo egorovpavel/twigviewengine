@@ -1,5 +1,5 @@
 {
-    "name": "egorovpavel/TwigViewEngine",
+    "name": "egorovpavel/twigviewengine",
     "type": "library",
     "description": "php twig view engine for pvc",
     "keywords": ["php", "viewengine", "pvc"],
