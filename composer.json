@@ -3,7 +3,7 @@
     "type": "library",
     "description": "php twig view engine for pvc",
     "keywords": ["php", "viewengine", "pvc"],
-    "homepage": "http://github.com/egorovpavel/TwigViewEngine",
+    "homepage": "http://github.com/egorovpavel/twigviewengine",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
             "email": "egorovpasha@gmail.com"
         }
     ],
-	"require": {
+    "require": {
         "egorovpavel/pvc": "dev-master",
         "twig/twig": "1.*"
     },
