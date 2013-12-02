@@ -1,13 +1,13 @@
 <?php
 namespace twigviewengine {
 
-    use egorovpavel\compot\lib\IViewEngine;
+    use compot\IViewEngine;
 
     class TwigViewEngine implements IViewEngine{
 
         public function render($template, $data)
         {
-            // TODO: Implement render() method.
+            return "yami";
         }
     }
 }
